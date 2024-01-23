@@ -1,0 +1,289 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "Recursion.Sum",
+      "projectName": "DSA_77514479"
+    },
+    {
+      "type": "java",
+      "name": "PowerOf2",
+      "request": "launch",
+      "mainClass": "PowerOf2",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "magicnumber",
+      "request": "launch",
+      "mainClass": "magicnumber",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "SubStringProg",
+      "request": "launch",
+      "mainClass": "String.SubStringProg",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": ""
+    },
+    {
+      "type": "java",
+      "name": "fiboonaci",
+      "request": "launch",
+      "mainClass": "Recursion.fiboonaci",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "Pallindrome",
+      "request": "launch",
+      "mainClass": "String.Pallindrome",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "String.test",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "cyclicsort",
+      "request": "launch",
+      "mainClass": "cyclicsort",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "insertionsort",
+      "request": "launch",
+      "mainClass": "insertionsort",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "selectionsort",
+      "request": "launch",
+      "mainClass": "selectionsort",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "bubblesort",
+      "request": "launch",
+      "mainClass": "Sorting.bubblesort",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "perfectbinarysearch2D",
+      "request": "launch",
+      "mainClass": "perfectbinarysearch2D",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "binarsearch2D",
+      "request": "launch",
+      "mainClass": "binarsearch2D",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "psotionInInfinte",
+      "request": "launch",
+      "mainClass": "psotionInInfinte",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "FirstAndLastOccurance",
+      "request": "launch",
+      "mainClass": "FirstAndLastOccurance",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "ceilingNumber",
+      "request": "launch",
+      "mainClass": "ceilingNumber",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "orderAgnosticBinary",
+      "request": "launch",
+      "mainClass": "orderAgnosticBinary",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "binarySearch",
+      "request": "launch",
+      "mainClass": "binarySearch",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "stringSearch",
+      "request": "launch",
+      "mainClass": "stringSearch",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "linearSearch",
+      "request": "launch",
+      "mainClass": "linearSearch",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Arrays.Reverse",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "ArraysList",
+      "request": "launch",
+      "mainClass": "Arrays.ArraysList",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "array2D",
+      "request": "launch",
+      "mainClass": "Arrays.array2D",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "arrays",
+      "request": "launch",
+      "mainClass": "Arrays.arrays",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "Prime",
+      "request": "launch",
+      "mainClass": "functions.Prime",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "Overiding",
+      "request": "launch",
+      "mainClass": "functions.Overiding",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "VariableArguments",
+      "request": "launch",
+      "mainClass": "functions.VariableArguments",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "Shadowing",
+      "request": "launch",
+      "mainClass": "functions.Shadowing",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "Scope",
+      "request": "launch",
+      "mainClass": "functions.Scope",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "switchCase",
+      "request": "launch",
+      "mainClass": "conditional.switchCase",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNumber",
+      "request": "launch",
+      "mainClass": "conditional.ReverseNumber",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "digitcount",
+      "request": "launch",
+      "mainClass": "conditional.digitcount",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)",
+      "request": "launch",
+      "mainClass": "conditional.fiboonaci",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "charCheck",
+      "request": "launch",
+      "mainClass": "conditional.charCheck",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "conditional",
+      "request": "launch",
+      "mainClass": "conditional",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "First",
+      "request": "launch",
+      "mainClass": "First",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/IT/Desktop/DSA",
+      "program": "c:/Users/IT/Desktop/DSA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
