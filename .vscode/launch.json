@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "subsequence",
+      "request": "launch",
+      "mainClass": "Recursion.subsequence",
+      "projectName": "DSA_77514479"
+    },
+    {
+      "type": "java",
+      "name": "fiboonaci",
+      "request": "launch",
+      "mainClass": "Recursion.fiboonaci",
+      "projectName": "DSA_77514479"
+    },
+    {
+      "type": "java",
+      "name": "Pallindrome",
+      "request": "launch",
+      "mainClass": "Recursion.Pallindrome",
+      "projectName": "DSA_77514479"
+    },
+    {
+      "type": "java",
+      "name": "ReverseArray",
+      "request": "launch",
+      "mainClass": "Recursion.ReverseArray",
+      "projectName": "DSA_77514479"
+    },
+    {
+      "type": "java",
       "name": "Sum",
       "request": "launch",
       "mainClass": "Recursion.Sum",

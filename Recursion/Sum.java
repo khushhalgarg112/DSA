@@ -29,7 +29,6 @@ public class Sum {
             return ;
         }
         add(i-1,sum+i);
-       
     }
 
 }
